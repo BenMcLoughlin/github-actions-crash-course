@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "banana": "banana"
+    "banana2": "banan2"
   },
   "dependencies": {
     "react": "^18.2.0",
